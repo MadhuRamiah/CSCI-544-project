@@ -26,6 +26,10 @@ Cluster7   not_am
 Cluster8   bn
 Cluster8   not_bn
 Cluster9   bo
+Cluster10   sr
+Cluster10   sr-Latn
+Cluster10   not_sr
+Cluster10   hr
 Cluster10   bs
 Cluster11   ca
 Cluster11   not_ca
@@ -51,7 +55,7 @@ Cluster23   not_fi
 Cluster24   fr
 Cluster24   not_fr
 Cluster25   gu
-Cluster26   hr
+Cluster26   ti
 Cluster27   ht
 Cluster27   not_ht
 Cluster28   hu
@@ -96,6 +100,8 @@ Cluster51   not_sl
 Cluster52   sr
 Cluster52   sr-Latn
 Cluster52   not_sr
+Cluster52   hr
+Cluster52   bs
 Cluster53   sv
 Cluster53   not_sv
 Cluster54   ta
@@ -131,4 +137,3 @@ Cluster77   jv
 Cluster78   la
 Cluster79   chr
 Cluster80   be
-Cluster81   ti
