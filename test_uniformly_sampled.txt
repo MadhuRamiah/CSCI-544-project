@@ -12974,10 +12974,6 @@ Cluster19	es	cielo no es tu culpa tuya todo esto yo ya estaba pérdida antes de 
 Cluster43	no	AUF vil la deler av kafébygget på Utøya bestå som et minnesmerke Fornuftig   Vi  minnes og lære
 Cluster43	no	USA Byggeinvesteringene falt i juni
 Cluster43	no	Nytt prisnE nB nDiesel nnn
-Cluster6	hi-Latn	chalo change kar diya nThanks
-Cluster6	hi-Latn	Koi Barra Kam Sirf Woh Shakhs Kr Skta Hy Jo Apne Ap Ko Chota Kam Krny Pr Razi Kr LynnFollow nnSend to  baar
-Cluster6	hi-Latn	Yeh meri umar ne meri zindagi kharab kardi hai
-Cluster6	hi-Latn	Shera Bhai Shahrukh Ne Aapke Liye Eidi Bheji HainSalman Kya Hai UsmenShera ScriptnSalman Kaminey
 Cluster29	hy	ԱԼԼԱ ԼԵՎՈՆՅԱՆԸ ՄԵՆԱՀԱՄԵՐԳԻ Է ՊԱՏՐԱՍՏՎՈՒՄ
 Cluster6	mr	जो आपल्या आईवर खर प्रेम करतो त्याने हि कविता जरूर वाचावी आणि आपल्या प्रत्येक मित्राला Share Tag करावी ¯v´¯
 Cluster61	vi	sao ẩn giật dữ v trời thanks ss nhé
