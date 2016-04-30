@@ -89,11 +89,14 @@ def selectFeatures(chNgramVoca):
 	import operator
 	for lang in langs:
 		selFea = sorted(chNgramVoca[lang].items(), key=operator.itemgetter(1), reverse = True)
-		#print selFea
+		print lang
+		print len(selFea)
+		print selFea[:5]
 		for item in selFea[LOW:NUMFEA]:
 			features.add(item[0])
+	print "Features size:"
+	print len(features)
 	return features
-
 
 ###Training and testing
 
